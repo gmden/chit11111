@@ -1,4 +1,4 @@
-window.location.hostname = "shop.rust-fire.ru"
+window.location.hostname = "rust-legend.gamestores.app"
 /* fetch(`${window.location.origin}/files/stores/backend/store.info.php`, {
     method: 'POST',
     headers: {
